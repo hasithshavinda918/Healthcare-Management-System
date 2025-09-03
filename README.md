@@ -1,15 +1,16 @@
-# 🌿 GreenLife Wellness Center - Web Application
+# � HolisticCare Professional Platform
 
-A modern, responsive web application for a holistic wellness center offering traditional and contemporary health services. Built with PHP, MySQL, and modern web technologies.
+A comprehensive, enterprise-grade wellness management system designed for healthcare professionals and wellness centers. Features advanced patient management, appointment scheduling, and integrated health services portal. Built with PHP, MySQL, and modern responsive web technologies.
 
-![GreenLife Wellness Center](https://img.shields.io/badge/Status-Active-green)
+![HolisticCare Platform](https://img.shields.io/badge/Status-Active-green)
 ![PHP](https://img.shields.io/badge/PHP-7.4+-blue)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
 ![Responsive](https://img.shields.io/badge/Design-Responsive-purple)
+![Enterprise](https://img.shields.io/badge/Grade-Enterprise-gold)
 
-## 🏥 About GreenLife Wellness Center
+## 🏥 About HolisticCare Professional Platform
 
-GreenLife Wellness Center is a comprehensive wellness platform that bridges traditional healing practices with modern healthcare approaches. Located in Colombo, Sri Lanka, we offer a harmonious blend of Ayurvedic therapy, yoga, nutrition consulting, physiotherapy, and therapeutic massage services.
+HolisticCare is an enterprise-grade wellness management platform that seamlessly integrates traditional healing methodologies with cutting-edge healthcare technology. Designed for wellness centers, clinics, and healthcare professionals, this comprehensive system bridges the gap between ancient healing wisdom and modern medical practice management.
 
 ## ✨ Features
 
@@ -22,38 +23,46 @@ GreenLife Wellness Center is a comprehensive wellness platform that bridges trad
 - **Accessibility**: WCAG compliant design principles
 
 ### ⚙️ Backend Features
-- **User Management**: Registration, login, and profile management
-- **Role-Based Access**: Admin, Therapist, and User dashboards
-- **Appointment System**: Booking and management functionality
-- **Database Integration**: MySQL database for data persistence
-- **Session Management**: Secure user session handling
-- **Authentication**: Secure login system with password protection
+- **Advanced Patient Management**: Comprehensive patient records and history tracking
+- **Multi-Role Access Control**: Admin, Healthcare Provider, Patient, and Staff dashboards
+- **Intelligent Appointment System**: Advanced scheduling with conflict resolution
+- **Clinical Database Integration**: HIPAA-compliant data management with MySQL
+- **Secure Session Management**: Enterprise-level security and authentication
+- **Treatment Protocol Management**: Standardized care pathways and protocols
+- **Reporting & Analytics**: Comprehensive healthcare analytics and insights
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript, Responsive Design
-- **Backend**: PHP 7.4+
-- **Database**: MySQL
-- **Server**: Apache (XAMPP)
-- **Styling**: Modern CSS with Glassmorphism effects
-- **Typography**: Google Fonts (Poppins)
-- **Icons**: Unicode Emojis & CSS Icons
+- **Frontend**: HTML5, CSS3, JavaScript ES6+, Progressive Web App (PWA) Ready
+- **Backend**: PHP 7.4+ with OOP Architecture
+- **Database**: MySQL 8.0+ with optimized queries
+- **Server**: Apache/Nginx Compatible
+- **Security**: SSL/TLS, Data Encryption, OWASP Compliance
+- **UI/UX**: Modern Material Design with Accessibility (WCAG 2.1)
+- **Typography**: Professional Google Fonts (Poppins, Inter)
+- **Icons**: Professional Icon Library & SVG Graphics
 
-## 📁 Project Structure
+## 📁 System Architecture
 
 ```
-greenlife_webapp/
-├── index.php              # Landing page
-├── login.php             # User login page
-├── register.php          # User registration
-├── logout.php            # Logout functionality
-├── admin_dashboard.php   # Admin panel
-├── therapist_dashboard.php # Therapist interface
-├── user_dashboard.php    # User dashboard
-├── db_connect.php        # Database connection
-├── database.sql          # Database schema
-├── bg123.jpg            # Background image
-└── README.md            # Project documentation
+holisticcare_platform/
+├── index.php              # Landing page & patient portal entry
+├── auth/
+│   ├── login.php          # Multi-role authentication system
+│   ├── register.php       # Patient registration & onboarding
+│   └── logout.php         # Secure session termination
+├── dashboards/
+│   ├── admin_dashboard.php       # Administrative control panel
+│   ├── provider_dashboard.php    # Healthcare provider interface  
+│   └── patient_dashboard.php     # Patient self-service portal
+├── core/
+│   ├── db_connect.php     # Database abstraction layer
+│   └── database.sql       # Complete database schema
+├── assets/
+│   └── bg123.jpg         # Professional UI assets
+├── docs/
+│   └── README.md         # Comprehensive documentation
+└── config/               # Configuration management
 ```
 
 ## 🚀 Installation & Setup
@@ -68,84 +77,89 @@ greenlife_webapp/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/hasithshavinda918/greenlife_webapp.git
-   cd greenlife_webapp
+   git clone https://github.com/hasithshavinda918/holisticcare-platform.git
+   cd holisticcare-platform
    ```
 
-2. **Setup XAMPP**
-   - Start Apache and MySQL services
-   - Copy project folder to `htdocs` directory
+2. **Setup Development Environment**
+   - Install XAMPP/WAMP/LAMP stack
+   - Ensure PHP 7.4+ and MySQL 8.0+ are running
+   - Configure virtual host (optional but recommended)
 
-3. **Database Setup**
+3. **Database Configuration**
    - Open phpMyAdmin (http://localhost/phpmyadmin)
-   - Create a new database named `greenlife_db`
-   - Import the `database.sql` file
+   - Create database: `holisticcare_db`
+   - Import the `database.sql` schema file
+   - Configure user permissions and access controls
 
-4. **Configure Database Connection**
-   - Open `db_connect.php`
-   - Update database credentials if needed
+4. **Application Configuration**
+   - Update `core/db_connect.php` with your database credentials
    ```php
-   $host = 'localhost';
-   $username = 'root';
-   $password = '';
-   $database = 'greenlife_db';
+   define('DB_HOST', 'localhost');
+   define('DB_USERNAME', 'root');
+   define('DB_PASSWORD', '');
+   define('DB_NAME', 'holisticcare_db');
    ```
 
-5. **Access the Application**
-   - Open browser and navigate to `http://localhost/greenlife_webapp`
+5. **Launch Application**
+   - Navigate to `http://localhost/holisticcare-platform`
+   - Complete initial system setup wizard
+   - Create administrative user account
 
 ## 🎯 Usage
 
-### For Visitors
-- Browse wellness services
-- Learn about GreenLife center
-- Contact the center via contact form
-- Register for an account
+### For Healthcare Professionals
+- Access comprehensive patient management dashboard  
+- Schedule and manage appointments efficiently
+- Review patient history and treatment records
+- Generate clinical reports and analytics
+- Manage treatment protocols and care plans
 
-### For Users
-- Login to personal dashboard
-- Book appointments
-- View service history
-- Manage profile
+### For Patients  
+- Self-service patient portal access
+- Online appointment booking and management
+- View treatment history and progress reports
+- Access educational resources and wellness content
+- Secure messaging with healthcare providers
 
-### For Therapists
-- Access therapist dashboard
-- Manage appointments
-- View client information
-- Update availability
+### For Administrative Staff
+- Complete system administration and oversight
+- User account management and role assignments  
+- Facility scheduling and resource management
+- Financial reporting and billing integration
+- System security and compliance monitoring
 
-### For Admins
-- Full system administration
-- User management
-- Appointment oversight
-- System analytics
+## 🌟 Professional Healthcare Services
 
-## 🌟 Services Offered
+1. **� Clinical Management**
+   - Electronic Health Records (EHR) integration
+   - Treatment planning and progress tracking
+   - Clinical decision support systems
+   - Quality assurance and compliance monitoring
 
-1. **🌱 Ayurvedic Therapy**
-   - Traditional natural healing
-   - Body and mind balance
-   - Ancient wisdom with modern applications
+2. **⚕️ Specialized Care Programs**
+   - Integrative medicine protocols
+   - Wellness and preventive care programs  
+   - Chronic disease management
+   - Mental health and wellness support
 
-2. **🧘 Yoga & Meditation Classes**
-   - Flexibility and strength enhancement
-   - Mental clarity improvement
-   - Certified instructor guidance
+3. **📊 Advanced Analytics & Reporting**
+   - Patient outcome analytics
+   - Treatment effectiveness measurements
+   - Operational efficiency reporting
+   - Regulatory compliance documentation
 
-3. **🥗 Nutrition & Diet Consultation**
-   - Personalized diet plans
-   - Nutritional guidance
-   - Health goal optimization
+4. **🔒 Security & Compliance**
+   - HIPAA compliant data protection
+   - Role-based access control (RBAC)
+   - Audit trails and activity logging
+   - Data encryption and secure communications
 
-4. **🏃 Physiotherapy**
-   - Professional rehabilitation
-   - Pain relief therapy
-   - Movement therapy expertise
-
-5. **💆 Massage Therapy**
-   - Therapeutic relaxation
-   - Balance restoration
-   - Vitality enhancement
+5. **🌐 Digital Health Integration**
+   - Telemedicine platform integration
+   - Mobile health app connectivity
+   - Wearable device data synchronization
+   - Patient engagement portal
 
 ## 🔧 Configuration
 

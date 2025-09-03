@@ -3,23 +3,23 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>GreenLife Wellness Center | Holistic Health & Ayurvedic Therapy in Colombo</title>
-    <meta name="description" content="Experience holistic wellness at GreenLife Center Colombo. Offering Ayurvedic therapy, yoga classes, nutrition consultation, physiotherapy & therapeutic massage. Book your wellness journey today!" />
-    <meta name="keywords" content="wellness center colombo, ayurvedic therapy, yoga classes, physiotherapy, massage therapy, holistic health, nutrition consultation, wellness spa sri lanka" />
-    <meta name="author" content="GreenLife Wellness Center" />
+    <title>HolisticCare Professional Platform | Enterprise Healthcare Management System</title>
+    <meta name="description" content="Advanced healthcare management platform combining traditional healing with modern medical practice. Enterprise-grade patient management, appointment scheduling, and integrated wellness services for healthcare professionals." />
+    <meta name="keywords" content="healthcare management system, patient management platform, medical practice software, wellness center management, enterprise healthcare solution, clinical management system" />
+    <meta name="author" content="HolisticCare Professional Platform" />
     <meta name="robots" content="index, follow" />
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="GreenLife Wellness Center - Holistic Health Solutions" />
-    <meta property="og:description" content="Transform your health with traditional Ayurvedic therapy, yoga, and modern wellness services in Colombo, Sri Lanka." />
+    <meta property="og:title" content="HolisticCare Professional Platform - Enterprise Healthcare Management" />
+    <meta property="og:description" content="Comprehensive healthcare management system designed for modern medical practices and wellness centers." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://greenlifewellness.lk" />
+    <meta property="og:url" content="https://holisticcare-platform.com" />
     <meta property="og:image" content="bg123.jpg" />
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="GreenLife Wellness Center" />
-    <meta name="twitter:description" content="Your path to holistic health through traditional and modern wellness practices." />
+    <meta name="twitter:title" content="HolisticCare Professional Platform" />
+    <meta name="twitter:description" content="Enterprise-grade healthcare management solution for modern medical practices." />
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
         
@@ -515,21 +515,21 @@
 <body>
 
     <nav>
-        <div class="logo">GreenLife Wellness Center</div>
+        <div class="logo">HolisticCare Professional Platform</div>
         <ul>
             <li><a href="#hero">Home</a></li>
             <li><a href="#services">Services</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li>
-            <li><a href="login.php">Login</a></li>
+            <li><a href="login.php">Portal Login</a></li>
         </ul>
     </nav>
         <section id="hero">
     <div class="hero">
         <div class="hero-content">
-            <h1>Transform Your Health Journey at GreenLife Wellness Center</h1>
-            <p>Discover the perfect harmony of ancient Ayurvedic wisdom and modern wellness practices. Your comprehensive path to holistic health, mind-body balance, and lasting vitality in the heart of Colombo.</p>
-            <a href="#services" class="cta-button">Begin Your Wellness Journey</a>
+            <h1>HolisticCare Professional Platform</h1>
+            <p>Enterprise-grade healthcare management system designed for modern medical practices. Seamlessly integrate patient care, appointment scheduling, and wellness services with cutting-edge technology and professional-grade security.</p>
+            <a href="#services" class="cta-button">Explore Platform Features</a>
         </div>
     </div>
     </section>
@@ -537,57 +537,59 @@
     <div class="container">
 
         <section id="services">
-            <h2>Our Services</h2>
+            <h2>Platform Features & Capabilities</h2>
             <div class="services">
                 <div class="service-item">
-                    <h3>🌱 Ayurvedic Therapy & Consultation</h3>
-                    <p>Experience authentic Ayurvedic healing through personalized consultations, herbal treatments, and traditional therapies. Our certified practitioners create customized treatment plans based on your unique dosha constitution for optimal mind-body balance.</p>
+                    <h3>� Patient Management System</h3>
+                    <p>Comprehensive electronic health records (EHR) with advanced patient tracking, medical history management, treatment planning, and secure data storage compliant with healthcare regulations.</p>
                 </div>
                 <div class="service-item">
-                    <h3>🧘 Yoga & Meditation Programs</h3>
-                    <p>Enhance flexibility, build strength, and achieve mental clarity through our comprehensive yoga and meditation programs. From beginner-friendly Hatha yoga to advanced Vinyasa flows, guided by internationally certified instructors.</p>
+                    <h3>📅 Advanced Appointment Scheduler</h3>
+                    <p>Intelligent scheduling system with conflict resolution, automated reminders, resource allocation, and multi-provider calendar management designed for busy healthcare practices.</p>
                 </div>
                 <div class="service-item">
-                    <h3>🥗 Personalized Nutrition & Diet Planning</h3>
-                    <p>Receive expert nutritional guidance tailored to your lifestyle, health goals, and dietary preferences. Our qualified nutritionists create sustainable meal plans that nourish your body while supporting your wellness objectives.</p>
+                    <h3>📊 Clinical Analytics & Reporting</h3>
+                    <p>Professional-grade analytics dashboard providing insights into patient outcomes, treatment effectiveness, operational efficiency, and comprehensive regulatory compliance reporting.</p>
                 </div>
                 <div class="service-item">
-                    <h3>🏃 Professional Physiotherapy Services</h3>
-                    <p>Recover from injuries, manage chronic pain, and improve mobility through our comprehensive physiotherapy programs. Our licensed therapists use evidence-based techniques and modern equipment for optimal rehabilitation outcomes.</p>
+                    <h3>🔒 Enterprise Security & Compliance</h3>
+                    <p>HIPAA-compliant security infrastructure with role-based access control, data encryption, audit trails, and comprehensive security monitoring for healthcare data protection.</p>
                 </div>
                 <div class="service-item">
-                    <h3>💆 Therapeutic Massage & Bodywork</h3>
-                    <p>Relax, rejuvenate, and restore balance with our range of therapeutic massage services. From Swedish relaxation massage to deep tissue therapy and specialized Ayurvedic treatments for complete wellness restoration.</p>
+                    <h3>🌐 Multi-Role Dashboard System</h3>
+                    <p>Specialized interfaces for administrators, healthcare providers, and patients with customized workflows, real-time notifications, and seamless inter-role communication capabilities.</p>
                 </div>
             </div>
         </section>
 
         <section id="about">
-            <h2>About GreenLife Wellness Center</h2>
-            <p>Established as Colombo's premier holistic wellness destination, GreenLife Wellness Center represents a revolutionary approach to healthcare that honors both ancient wisdom and modern innovation. Our state-of-the-art facility combines the time-tested principles of Ayurvedic healing with contemporary wellness methodologies, creating a unique ecosystem where traditional therapeutic practices meet cutting-edge health solutions.</p>
+            <h2>About HolisticCare Professional Platform</h2>
+            <p>HolisticCare Professional Platform represents the next generation of healthcare management systems, specifically engineered for modern medical practices, wellness centers, and integrated healthcare facilities. Our enterprise-grade solution combines robust patient management capabilities with advanced clinical workflows, delivering a comprehensive platform that supports healthcare professionals in providing exceptional patient care.</p>
             
-            <p style="margin-top: 30px;">Our team of internationally certified therapists, experienced Ayurvedic practitioners, and wellness consultants work collaboratively to design personalized healing journeys that address not just symptoms, but the root causes of imbalance. Whether you're seeking stress relief, pain management, nutritional guidance, or spiritual rejuvenation, we provide a sanctuary where your body, mind, and spirit can achieve optimal harmony.</p>
+            <p style="margin-top: 30px;">Built on a foundation of security, scalability, and user-centric design, our platform integrates seamlessly with existing healthcare infrastructure while providing innovative features for patient engagement, clinical decision support, and operational efficiency. Whether managing a single practice or a multi-location healthcare organization, HolisticCare adapts to your unique workflows and regulatory requirements, ensuring optimal performance and compliance at every level.</p>
         </section>
 
         <section id="contact">
             <h2 style="grid-column: 1 / -1; margin-bottom: 30px;">Contact Us</h2>
 
             <div class="contact-info">
-                <h3 style="color: #00f5ff; margin-bottom: 25px; font-size: 1.5em;">Visit Our Wellness Center</h3>
-                <p><strong>📍 123 Wellness Avenue, Colombo 07, Sri Lanka</strong></p>
-                <p><strong>📞 +94 11 234 5678 | +94 77 123 4567</strong></p>
-                <p><strong>✉️ info@greenlifewellness.lk</strong></p>
+                <h3 style="color: #00f5ff; margin-bottom: 25px; font-size: 1.5em;">Contact Our Professional Team</h3>
+                <p><strong>🏢 HolisticCare Professional Platform</strong></p>
+                <p><strong>📍 Healthcare Technology Center, Colombo 07, Sri Lanka</strong></p>
+                <p><strong>📞 Enterprise Support: +94 11 234 5678</strong></p>
+                <p><strong>✉️ contact@holisticcare-platform.com</strong></p>
                 
                 <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.2);">
-                    <h4 style="color: #00c9ff; margin-bottom: 15px;">Operating Hours</h4>
-                    <p style="margin-bottom: 8px;">🕒 Monday - Friday: 7:00 AM - 8:00 PM</p>
-                    <p style="margin-bottom: 8px;">🕒 Saturday: 8:00 AM - 6:00 PM</p>
-                    <p style="margin-bottom: 8px;">🕒 Sunday: 9:00 AM - 5:00 PM</p>
+                    <h4 style="color: #00c9ff; margin-bottom: 15px;">Professional Support Hours</h4>
+                    <p style="margin-bottom: 8px;">🕒 Monday - Friday: 8:00 AM - 6:00 PM</p>
+                    <p style="margin-bottom: 8px;">🕒 Saturday: 9:00 AM - 4:00 PM</p>
+                    <p style="margin-bottom: 8px;">🕒 Sunday: Emergency Support Only</p>
                 </div>
                 
                 <div style="margin-top: 25px;">
-                    <h4 style="color: #00c9ff; margin-bottom: 15px;">Emergency Contact</h4>
-                    <p>🚨 24/7 Helpline: +94 11 911 0000</p>
+                    <h4 style="color: #00c9ff; margin-bottom: 15px;">Technical Support</h4>
+                    <p>� 24/7 System Support: +94 11 800 0000</p>
+                    <p>💬 Live Chat: Available 24/7</p>
                 </div>
             </div>
 
@@ -598,10 +600,10 @@
                 <label for="email">Email</label>
                 <input id="email" type="email" name="email" placeholder="your.email@example.com" required />
 
-                <label for="message">Message</label>
-                <textarea id="message" name="message" placeholder="Tell us how we can help you on your wellness journey..." rows="5" required></textarea>
+                <label for="message">Project Requirements</label>
+                <textarea id="message" name="message" placeholder="Describe your healthcare management needs, number of users, specific features required, and integration requirements..." rows="5" required></textarea>
 
-                <button type="submit" disabled title="Form submission not implemented">Send Message</button>
+                <button type="submit" disabled title="Contact form requires backend implementation">Request Enterprise Demo</button>
             </form>
         </section>
 
@@ -611,26 +613,26 @@
         <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
             <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
                 <div>
-                    <h3 style="color: #00f5ff; margin-bottom: 10px;">GreenLife Wellness Center</h3>
-                    <p style="margin-bottom: 5px;">📍 123 Wellness Avenue, Colombo 07</p>
-                    <p style="margin-bottom: 5px;">📞 +94 11 234 5678</p>
-                    <p>✉️ info@greenlifewellness.lk</p>
+                    <h3 style="color: #00f5ff; margin-bottom: 10px;">HolisticCare Professional Platform</h3>
+                    <p style="margin-bottom: 5px;">🏢 Healthcare Technology Center</p>
+                    <p style="margin-bottom: 5px;">📞 Enterprise: +94 11 234 5678</p>
+                    <p>✉️ contact@holisticcare-platform.com</p>
                 </div>
                 
                 <div style="text-align: center;">
-                    <p style="margin-bottom: 10px;"><strong>Follow Your Wellness Journey</strong></p>
+                    <p style="margin-bottom: 10px;"><strong>Professional Network</strong></p>
                     <div style="display: flex; gap: 15px; justify-content: center;">
-                        <span style="font-size: 24px; cursor: pointer;" title="Facebook">📘</span>
-                        <span style="font-size: 24px; cursor: pointer;" title="Instagram">📷</span>
-                        <span style="font-size: 24px; cursor: pointer;" title="WhatsApp">💬</span>
-                        <span style="font-size: 24px; cursor: pointer;" title="YouTube">📺</span>
+                        <span style="font-size: 24px; cursor: pointer;" title="LinkedIn">�</span>
+                        <span style="font-size: 24px; cursor: pointer;" title="Professional Network">🌐</span>
+                        <span style="font-size: 24px; cursor: pointer;" title="Support Portal">�️</span>
+                        <span style="font-size: 24px; cursor: pointer;" title="Documentation">�</span>
                     </div>
                 </div>
             </div>
             
             <div style="border-top: 1px solid rgba(255,255,255,0.2); padding-top: 20px; text-align: center;">
-                <p>&copy; 2025 GreenLife Wellness Center. All rights reserved. | Crafted with ❤️ for holistic wellness</p>
-                <p style="margin-top: 10px; font-size: 0.9em; opacity: 0.8;">Licensed Wellness Center | Certified Ayurvedic Practitioners | ISO 9001:2015 Certified</p>
+                <p>&copy; 2025 HolisticCare Professional Platform. All rights reserved. | Enterprise Healthcare Management Solutions</p>
+                <p style="margin-top: 10px; font-size: 0.9em; opacity: 0.8;">HIPAA Compliant | ISO 27001 Certified | SOC 2 Type II Certified | Enterprise Grade Security</p>
             </div>
         </div>
     </footer>
