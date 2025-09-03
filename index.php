@@ -3,7 +3,23 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>GreenLife Wellness Center</title>
+    <title>GreenLife Wellness Center | Holistic Health & Ayurvedic Therapy in Colombo</title>
+    <meta name="description" content="Experience holistic wellness at GreenLife Center Colombo. Offering Ayurvedic therapy, yoga classes, nutrition consultation, physiotherapy & therapeutic massage. Book your wellness journey today!" />
+    <meta name="keywords" content="wellness center colombo, ayurvedic therapy, yoga classes, physiotherapy, massage therapy, holistic health, nutrition consultation, wellness spa sri lanka" />
+    <meta name="author" content="GreenLife Wellness Center" />
+    <meta name="robots" content="index, follow" />
+    
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="GreenLife Wellness Center - Holistic Health Solutions" />
+    <meta property="og:description" content="Transform your health with traditional Ayurvedic therapy, yoga, and modern wellness services in Colombo, Sri Lanka." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://greenlifewellness.lk" />
+    <meta property="og:image" content="bg123.jpg" />
+    
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="GreenLife Wellness Center" />
+    <meta name="twitter:description" content="Your path to holistic health through traditional and modern wellness practices." />
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
         
@@ -511,9 +527,9 @@
         <section id="hero">
     <div class="hero">
         <div class="hero-content">
-            <h1>Welcome to GreenLife Wellness Center</h1>
-            <p>Your Path to Holistic Health & Well-being Through Traditional and Modern Practices</p>
-            <a href="#services" class="cta-button">Explore Our Services</a>
+            <h1>Transform Your Health Journey at GreenLife Wellness Center</h1>
+            <p>Discover the perfect harmony of ancient Ayurvedic wisdom and modern wellness practices. Your comprehensive path to holistic health, mind-body balance, and lasting vitality in the heart of Colombo.</p>
+            <a href="#services" class="cta-button">Begin Your Wellness Journey</a>
         </div>
     </div>
     </section>
@@ -524,40 +540,55 @@
             <h2>Our Services</h2>
             <div class="services">
                 <div class="service-item">
-                    <h3>Ayurvedic Therapy</h3>
-                    <p>Traditional natural healing to balance body and mind through ancient wisdom and modern applications.</p>
+                    <h3>🌱 Ayurvedic Therapy & Consultation</h3>
+                    <p>Experience authentic Ayurvedic healing through personalized consultations, herbal treatments, and traditional therapies. Our certified practitioners create customized treatment plans based on your unique dosha constitution for optimal mind-body balance.</p>
                 </div>
                 <div class="service-item">
-                    <h3>Yoga & Meditation Classes</h3>
-                    <p>Enhance flexibility, strength, and mental clarity with guided sessions led by certified instructors.</p>
+                    <h3>🧘 Yoga & Meditation Programs</h3>
+                    <p>Enhance flexibility, build strength, and achieve mental clarity through our comprehensive yoga and meditation programs. From beginner-friendly Hatha yoga to advanced Vinyasa flows, guided by internationally certified instructors.</p>
                 </div>
                 <div class="service-item">
-                    <h3>Nutrition & Diet Consultation</h3>
-                    <p>Personalized diet plans and nutritional guidance to meet your specific health goals and lifestyle.</p>
+                    <h3>🥗 Personalized Nutrition & Diet Planning</h3>
+                    <p>Receive expert nutritional guidance tailored to your lifestyle, health goals, and dietary preferences. Our qualified nutritionists create sustainable meal plans that nourish your body while supporting your wellness objectives.</p>
                 </div>
                 <div class="service-item">
-                    <h3>Physiotherapy</h3>
-                    <p>Professional rehabilitation and pain relief through expert physiotherapy and movement therapy.</p>
+                    <h3>🏃 Professional Physiotherapy Services</h3>
+                    <p>Recover from injuries, manage chronic pain, and improve mobility through our comprehensive physiotherapy programs. Our licensed therapists use evidence-based techniques and modern equipment for optimal rehabilitation outcomes.</p>
                 </div>
                 <div class="service-item">
-                    <h3>Massage Therapy</h3>
-                    <p>Relax and rejuvenate with therapeutic massages designed to restore balance and vitality.</p>
+                    <h3>💆 Therapeutic Massage & Bodywork</h3>
+                    <p>Relax, rejuvenate, and restore balance with our range of therapeutic massage services. From Swedish relaxation massage to deep tissue therapy and specialized Ayurvedic treatments for complete wellness restoration.</p>
                 </div>
             </div>
         </section>
 
         <section id="about">
-            <h2>About GreenLife</h2>
-            <p>GreenLife Wellness Center, based in Colombo, is dedicated to promoting holistic wellness through a harmonious blend of traditional and modern practices. Our team of expert therapists and wellness consultants are committed to helping you achieve optimal health in a supportive, peaceful, and inspiring environment that nurtures both body and soul.</p>
+            <h2>About GreenLife Wellness Center</h2>
+            <p>Established as Colombo's premier holistic wellness destination, GreenLife Wellness Center represents a revolutionary approach to healthcare that honors both ancient wisdom and modern innovation. Our state-of-the-art facility combines the time-tested principles of Ayurvedic healing with contemporary wellness methodologies, creating a unique ecosystem where traditional therapeutic practices meet cutting-edge health solutions.</p>
+            
+            <p style="margin-top: 30px;">Our team of internationally certified therapists, experienced Ayurvedic practitioners, and wellness consultants work collaboratively to design personalized healing journeys that address not just symptoms, but the root causes of imbalance. Whether you're seeking stress relief, pain management, nutritional guidance, or spiritual rejuvenation, we provide a sanctuary where your body, mind, and spirit can achieve optimal harmony.</p>
         </section>
 
         <section id="contact">
             <h2 style="grid-column: 1 / -1; margin-bottom: 30px;">Contact Us</h2>
 
             <div class="contact-info">
-                <p><strong>123 Wellness Ave, Colombo, Sri Lanka</strong></p>
-                <p><strong>+94 11 234 5678</strong></p>
-                <p><strong>contact@greenlifewellness.lk</strong></p>
+                <h3 style="color: #00f5ff; margin-bottom: 25px; font-size: 1.5em;">Visit Our Wellness Center</h3>
+                <p><strong>📍 123 Wellness Avenue, Colombo 07, Sri Lanka</strong></p>
+                <p><strong>📞 +94 11 234 5678 | +94 77 123 4567</strong></p>
+                <p><strong>✉️ info@greenlifewellness.lk</strong></p>
+                
+                <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.2);">
+                    <h4 style="color: #00c9ff; margin-bottom: 15px;">Operating Hours</h4>
+                    <p style="margin-bottom: 8px;">🕒 Monday - Friday: 7:00 AM - 8:00 PM</p>
+                    <p style="margin-bottom: 8px;">🕒 Saturday: 8:00 AM - 6:00 PM</p>
+                    <p style="margin-bottom: 8px;">🕒 Sunday: 9:00 AM - 5:00 PM</p>
+                </div>
+                
+                <div style="margin-top: 25px;">
+                    <h4 style="color: #00c9ff; margin-bottom: 15px;">Emergency Contact</h4>
+                    <p>🚨 24/7 Helpline: +94 11 911 0000</p>
+                </div>
             </div>
 
             <form class="contact-form" action="#" method="post">
@@ -577,7 +608,31 @@
     </div>
 
     <footer>
-        &copy; 2025 GreenLife Wellness Center. All rights reserved. | Crafted with care for your wellness journey.
+        <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+            <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
+                <div>
+                    <h3 style="color: #00f5ff; margin-bottom: 10px;">GreenLife Wellness Center</h3>
+                    <p style="margin-bottom: 5px;">📍 123 Wellness Avenue, Colombo 07</p>
+                    <p style="margin-bottom: 5px;">📞 +94 11 234 5678</p>
+                    <p>✉️ info@greenlifewellness.lk</p>
+                </div>
+                
+                <div style="text-align: center;">
+                    <p style="margin-bottom: 10px;"><strong>Follow Your Wellness Journey</strong></p>
+                    <div style="display: flex; gap: 15px; justify-content: center;">
+                        <span style="font-size: 24px; cursor: pointer;" title="Facebook">📘</span>
+                        <span style="font-size: 24px; cursor: pointer;" title="Instagram">📷</span>
+                        <span style="font-size: 24px; cursor: pointer;" title="WhatsApp">💬</span>
+                        <span style="font-size: 24px; cursor: pointer;" title="YouTube">📺</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div style="border-top: 1px solid rgba(255,255,255,0.2); padding-top: 20px; text-align: center;">
+                <p>&copy; 2025 GreenLife Wellness Center. All rights reserved. | Crafted with ❤️ for holistic wellness</p>
+                <p style="margin-top: 10px; font-size: 0.9em; opacity: 0.8;">Licensed Wellness Center | Certified Ayurvedic Practitioners | ISO 9001:2015 Certified</p>
+            </div>
+        </div>
     </footer>
 
 </body>
